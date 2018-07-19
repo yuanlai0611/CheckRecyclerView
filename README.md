@@ -1,0 +1,2 @@
+# CheckRecyclerView
+解决了recyclerView复用机制导致的checkBox混乱的问题
